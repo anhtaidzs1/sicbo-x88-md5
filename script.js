@@ -1,0 +1,1 @@
+console.log('Sicbo game loaded');
